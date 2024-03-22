@@ -1,0 +1,8 @@
+folder name is was 
+file name is pro
+ls(current stage)
+cd to get into
+mkdir foldername to make file
+cd foldername to get into file 
+git init (to inititlise git reporsitory)
+touch filename.txt
